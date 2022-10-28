@@ -1,4 +1,4 @@
-From MALIK.malik2 import HSTN, HSTNN
+From malik.malik2 import HSTN, HSTNN
 
 
 
